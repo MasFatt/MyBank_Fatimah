@@ -1,2 +1,2 @@
 # MyBank_Fatimah
-Project ini di mentori langsung sama kaka saya, Fatiha Eros Perdana
+Project ini kerjakan oleh Fatimah dan didampingin kaka saya, Fatiha Eros Perdana.
